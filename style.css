@@ -1,0 +1,39 @@
+.list{
+    text-align: center;
+    width: 400px;
+    margin: 0 auto;
+    margin-top: 50px;
+
+}
+ul p{
+    list-style-type: none;
+    padding: 5px;
+    color: rgb(234, 75, 21);
+    font-size: large;
+}
+button{
+    border: 2px solid black;
+    color: white;
+    background-color: rgb(222, 129, 16);
+    font-size: large;
+    padding: 5px;
+}
+#letter{
+    color: white;
+    padding: 5px;
+    border: 2px solid black;
+    font-size: large;
+    background-color: rgb(122, 205, 123);
+}
+.legend{
+    font-size: large;
+    padding: 5px;
+    color: rgb(111, 32, 238);
+    width: 100px;
+    margin: 0 auto;
+}
+fieldset{
+    border: 1px solid rgb(41, 236, 20);
+    background-color: rgb(130, 239, 172);
+    box-shadow: 3px 3px 3px 3px rgb(192, 155, 155);
+}
